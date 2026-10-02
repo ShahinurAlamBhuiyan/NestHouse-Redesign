@@ -90,7 +90,7 @@ The final website works across desktop, tablet, and mobile, includes a verified 
 
 Watch the project walkthrough to explore the complete Nest landing page, responsive implementation, product previews, animations, and early-access signup experience.
 
-▶️ **[Watch Nest Project Walkthrough on YouTube](YOUR_YOUTUBE_VIDEO_LINK)**
+▶️ **[Watch Nest Project Walkthrough on YouTube](https://youtu.be/PnNg22o412s)**
 
 ## 🖼️ Preview
 
